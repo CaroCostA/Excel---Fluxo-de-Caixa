@@ -1,13 +1,14 @@
-<h1 color= 'green'> Projeto de Fluxo de Caixa </h1>
-<h3>Projeto consiste em um fluxo de caixa com:</h3>
-<ul>
-  <li>Plano de contas de entradas e saídas; </li>
-  <li>Lançamentos de entradas e saídas do fluxo de caixa de caixa; </li>
-  <li>Fluxo de caixa e resultado mensa</li>
-  <li>Detalhamento de despesas e receitas</li>
-  <li>Contas a pagar e contas a receber</li>
-  <li>Contas e receber vencidas</li>
-  <li>Dashboard dinâmico com relatório geral das informações</li>
-</ul>
+<h1>📊📈 Projeto de Fluxo de Caixa 📊📈</h1>
 
-###### OBS: O relatório doi feito com base nas aulas de Excel do básico ao avançado na Udemy
+## O Projeto de Fluxo de Caixa consiste em um sistema abrangente para gerenciamento financeiro, oferecendo recursos essenciais para acompanhar e analisar as finanças da empresa. Principais características incluem:
+
+- **Plano de Contas de Entradas e Saídas:** Estrutura organizada para categorizar as fontes de receita e os tipos de despesas.
+- **Lançamentos de Entradas e Saídas:** Registro detalhado de todas as transações financeiras, permitindo um acompanhamento preciso do fluxo de caixa.
+- **Fluxo de Caixa e Resultado Mensal:** Análise mensal do fluxo de caixa e resultado financeiro, destacando lucros e perdas.
+- **Detalhamento de Despesas e Receitas:** Visão detalhada das despesas e receitas, facilitando a identificação de áreas de oportunidade e potenciais cortes de custos.
+- **Contas a Pagar e Contas a Receber:** Gerenciamento eficaz das obrigações financeiras pendentes e dos valores a serem recebidos.
+- **Contas a Receber Vencidas:** Identificação e acompanhamento das contas a receber que ultrapassaram o prazo de vencimento, permitindo ações corretivas oportunas.
+- **Dashboard Dinâmico:** Dashboard interativo oferecendo uma visão geral das informações financeiras, com gráficos e métricas relevantes para uma análise rápida e eficiente.
+
+Este relatório foi desenvolvido com base em conhecimentos adquiridos nas aulas de Excel do básico ao avançado na Udemy, proporcionando uma solução completa para a gestão financeira.
+
